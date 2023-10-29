@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* 배경색 여기 */
+body {
+  margin: 0;
+  font-family: 'Noto Sans KR', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  box-sizing: border-box;
+  height: 100vh;
+  font-family: 'TTWanjudaedunsancheB', sans-serif;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace, TTWanjudaedunsancheB; 
+}
+
